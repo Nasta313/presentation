@@ -1,0 +1,17 @@
+.green-color{
+    color: seagreen;
+}
+.green-backgraund-color{
+    background-color: seagreen;
+}
+.gray-backgraund-color{
+    background-color: gray;
+}
+
+.span-item{
+    display: inline-block;
+    padding: 5px 15px;
+    margin: 10px 0;
+    width: 400px;
+    font-size: 0.8em;
+}
